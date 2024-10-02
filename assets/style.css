@@ -1,0 +1,21 @@
+.navbar {
+    overflow: hidden;
+    background-color: #68d9b3;
+    position: fixed; 
+    top: 0; 
+    width: 100%;
+    z-index: 1; 
+  }
+
+  img {
+    padding-bottom: 15px;
+    z-index: -1;
+  }
+
+  .btn {
+    align-items: baseline;
+  }
+
+  #interventions {
+    align-content: center;
+  }
